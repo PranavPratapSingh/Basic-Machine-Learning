@@ -11,7 +11,7 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
 
 Notice in the image above that most of the time, similar data points are close to each other. The KNN algorithm hinges on this assumption being true enough for the algorithm to be useful. KNN captures the idea of similarity (sometimes called distance, proximity, or closeness) with some mathematics we might have learned in our childhood— calculating the distance between points on a graph.
 
-In my implementation, I have used a simple algorithm to find out distance between two points i.e. ![\sqrt{(x1-x2)^2+(y1-y2)2}].
+In my implementation, I have used a simple algorithm to find out distance between two points i.e. ![img](http://latex.codecogs.com/svg.latex%5Csqrt%7B%28x1-x2%29%5E2%2B%28y1-y2%292%7D).
 
 # Kmeans - Kmeans Clustering Algorithm
 
